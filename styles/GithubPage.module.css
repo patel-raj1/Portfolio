@@ -40,6 +40,8 @@
 
 .contributions article {
   width: 100% !important;
+  border: 2px solid var(--accent-color);
+  padding: 2%;
 }
 
 @media screen and (max-width: 900px) {
@@ -55,4 +57,9 @@
   .username {
     display: none;
   }
+}
+
+#centerContent {
+  display: flex;
+  justify-content: center;
 }
