@@ -3,7 +3,6 @@ import WarningIcon from './icons/WarningIcon';
 import BellIcon from './icons/BellIcon';
 import CheckIcon from './icons/CheckIcon';
 import NextjsIcon from './icons/NextjsIcon';
-import KIcon from './icons/KIcon';
 import SourceControlIcon from './icons/SourceControlIcon';
 import styles from '../styles/Bottombar.module.css';
 
@@ -29,7 +28,6 @@ const Bottombar = () => {
       </div>
       <div className={styles.container}>
         <div className={styles.section}>
-            <KIcon className={styles.icon} />
             <p>Built with ❤️ by Kaushal Patel</p>
         </div>
         <div className={styles.section}>
