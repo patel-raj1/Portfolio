@@ -4,20 +4,28 @@
     "name": "Web Analysis and Marketing Tool",
     "image": "https://mrkaushal.com/wp-content/uploads/2022/06/wamt.png",
     "description": "A platform for Marketing Professionals",
-    "tags": ["html","css","ajax","python","django"],
+    "tags": ["html","css","bootstrap","ajax","python","django"],
     "__source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "__demo": "https://driwwwle.com/"
   },
   {
     "id": 2,
     "name": "Genetic",
     "image": "https://mrkaushal.com/wp-content/uploads/2022/06/genetic.png",
     "description": "Hospital Management System for Doctors, Nurses and Patients with a Genetic Algorithm",
-    "tags": ["html","css","ajax","python","django"],
-    "demo": "https://www.pcbcupid.com/"
+    "tags": ["html","css","bootstrap","ajax","python","django"],
+    "__demo": "https://www.pcbcupid.com/"
   },
   {
     "id": 3,
+    "name": "VS Code Portfolio",
+    "image": "https://mrkaushal.com/wp-content/uploads/2022/06/vscode.png",
+    "description": "A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.",
+    "tags": ["next","css"],
+    "demo": "https://kaushalpatel.info"
+  },
+  {
+    "id": 4,
     "name": "SPECE",
     "image": "https://mrkaushal.com/wp-content/uploads/2022/06/spese.png",
     "description": "The Spese Portfolio Theme is intended to make it quick and easy for everyone to create their portfolio website.",

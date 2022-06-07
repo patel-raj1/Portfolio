@@ -51,10 +51,10 @@
   background: rgba(82, 143, 240, 0.25);
 }
 
-.material-ui {
+.bootstrap {
   border: 0.1rem solid rgb(25, 118, 210);
 }
-.material-ui:hover {
+.bootstrap:hover {
   background: rgba(25, 118, 210, 0.25);
 }
 
