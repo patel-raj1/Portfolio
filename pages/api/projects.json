@@ -2,36 +2,27 @@
   {
     "id": 1,
     "name": "Web Analysis and Marketing Tool",
-    "image": "https://imgur.com/kbGs6zH.png",
+    "image": "https://mrkaushal.com/wp-content/uploads/2022/06/wamt.png",
     "description": "A platform for Marketing Professionals",
-    "tags": ["html","css","python","Django"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
+    "tags": ["html","css","ajax","python","django"],
+    "__source_code": "https://github.com/itsnitinr/driwwwle-v2",
     "demo": "https://driwwwle.com/"
   },
   {
     "id": 2,
     "name": "Genetic",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "image": "https://mrkaushal.com/wp-content/uploads/2022/06/genetic.png",
+    "description": "Hospital Management System for Doctors, Nurses and Patients with a Genetic Algorithm",
+    "tags": ["html","css","ajax","python","django"],
     "demo": "https://www.pcbcupid.com/"
   },
   {
     "id": 3,
     "name": "SPECE",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
-  },
-  {
-    "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "image": "https://mrkaushal.com/wp-content/uploads/2022/06/spese.png",
+    "description": "The Spese Portfolio Theme is intended to make it quick and easy for everyone to create their portfolio website.",
+    "tags": ["html","css","jekyll", "netlify"],
+    "source_code": "https://github.com/getlocalhost/Spese",
+    "demo": "https://getlocalhost.github.io/Spese"
   }
 ]
