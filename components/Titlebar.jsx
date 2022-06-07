@@ -2,6 +2,11 @@ import Image from 'next/image';
 import styles from '../styles/Titlebar.module.css';
 
 const Titlebar = () => {
+  const onClose = () => {
+    window.opener = null;
+    window.open("", "_self");
+    window.close();
+  };
   return (
     <section className={styles.titlebar}>
       <Image
@@ -22,9 +27,9 @@ const Titlebar = () => {
       </div>
       <p className={styles.title}>Kaushal Patel - Visual Studio Code</p>
       <div className={styles.windowButtons}>
-        <span className={styles.minimize}></span>
+        <a href='https://google.com' target={"__blank"} className={styles.minimize}></a>
         <span className={styles.maximize}></span>
-        <span className={styles.close}></span>
+        <a onClick={onClose} className={styles.close}></a>
       </div>
     </section>
   );
