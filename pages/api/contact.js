@@ -25,7 +25,7 @@ export default async (req, res) => {
           ],
         },
         Email: {
-          email,
+          email: email,
         },
         Subject: {
           rich_text: [
