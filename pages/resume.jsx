@@ -1,7 +1,7 @@
 const ResumePage = () => {
     return (
       <>
-        <iframe width="100%" height="100%" src="https://mrkaushal.com/wp-content/uploads/2022/05/Resume.pdf"></iframe>
+        <iframe width="100%" height="100%" src="https://mrkaushal.com/wp-content/uploads/2022/08/Resume.pdf"></iframe>
       </>
     );
   };
