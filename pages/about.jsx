@@ -20,7 +20,7 @@ const AboutPage = () => {
             <h3 className={styles.title}>Charotar University of Science & Technology</h3>
             <span className={styles.span}>B. Tech. C.S.E. (2021 - 2024)</span>
           </div>
-          <p className={styles.desc}>I have attended the Blockchain Technology workshop, also participated in 30 Days of Google Cloud Chalange</p>
+          <p className={styles.desc}>I have attended the Blockchain Technology workshop, also participated in 30 Days of Google Cloud Challenge</p>
         </div>
         <div className={styles.card}>
           <div>
@@ -57,7 +57,7 @@ const AboutPage = () => {
         <div className={styles.card}>
           <h3 className={styles.title}>Freelancer</h3>
           <span className={styles.span}>Full-Stack Web Development (2019 - Present)</span>
-          <p className={styles.desc}>I have been working as web developer and learned advance topics.</p>
+          <p className={styles.desc}>I have been working as web developer and learned advanced topics.</p>
         </div>
       </div>
     </>
