@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Genetic",
-    "image": "https://mrkaushal.com/wp-content/uploads/2022/06/genetic.png",
+    "image": "../images/genetic.png",
     "description": "Hospital Management System for Doctors, Nurses and Patients with a Genetic Algorithm",
     "tags": ["html","css","bootstrap","ajax","python","django"],
     "__demo": "https://www.pcbcupid.com/"
@@ -28,7 +28,7 @@
   {
     "id": 4,
     "name": "VS Code Portfolio",
-    "image": "https://mrkaushal.com/wp-content/uploads/2022/06/vscode.png",
+    "image": "../images/vscodeportfolio.png",
     "description": "A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.",
     "tags": ["next","css"],
     "demo": "https://kaushalpatel.info"
@@ -36,7 +36,7 @@
   {
     "id": 5,
     "name": "SPECE",
-    "image": "https://mrkaushal.com/wp-content/uploads/2022/06/spese.png",
+    "image": "../images/spece.png",
     "description": "The Spese Portfolio Theme is intended to make it quick and easy for everyone to create their portfolio website.",
     "tags": ["html","css","jekyll", "netlify"],
     "source_code": "https://github.com/getlocalhost/Spese",
