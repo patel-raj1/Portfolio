@@ -20,7 +20,7 @@ const AboutPage = () => {
             <h3 className={styles.title}>Charotar University of Science & Technology</h3>
             <span className={styles.span}>B. Tech. C.S.E. (2021 - 2024)</span>
           </div>
-          <p className={styles.desc}><b>Grade: CGPA - 8.11</b><br/>I have attended the Blockchain Technology workshop, also participated in 30 Days of Google Cloud Challenge</p>
+          <p className={styles.desc}><b>Grade: CGPA - 8.11</b><br/>I have attended the Blockchain Technology workshop, also participated in 30 Days of Google Cloud Challenge. I am also participating in hackathons and other events.</p>
         </div>
         <div className={styles.card}>
           <div>

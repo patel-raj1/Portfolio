@@ -9,7 +9,7 @@ const contactItems = [
   {
     social: 'email',
     link: 'mr.kaushal.p@gmail.com',
-    href: 'mailto:mr.kaushal.p+contact@gmail.com',
+    href: 'mailto:hello@kaushalpatel.info',
   },
   {
     social: 'github',
