@@ -5,8 +5,8 @@
     "image": "https://i.ibb.co/q1fsG7J/INtelligence-Mesh.png",
     "description": "A platform for Marketing Professionals",
     "tags": ["html","css","bootstrap","ajax","python","django"],
-    "__source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "__demo": "https://driwwwle.com/"
+    "__source_code": "https://github.com/mrkaushal",
+    "__demo": "https://google.com/"
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "image": "https://mrkaushal.com/wp-content/uploads/2022/06/wamt.png",
     "description": "A platform for Tech Companies to manage their projects",
     "tags": ["html","css","bootstrap","ajax","python","django"],
-    "__source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "__demo": "https://driwwwle.com/"
+    "__source_code": "https://github.com/mrkaushal",
+    "__demo": "https://google.com/"
   },
   {
     "id": 3,
@@ -23,7 +23,8 @@
     "image": "https://i.ibb.co/kXV0y90/Genetic.png",
     "description": "Hospital Management System for Doctors, Nurses and Patients with a Genetic Algorithm",
     "tags": ["html","css","bootstrap","ajax","python","django"],
-    "__demo": "https://www.pcbcupid.com/"
+    "source_code": "https://github.com/mrkaushal/Genetic",
+    "__demo": "https://www.google.com/"
   },
   {
     "id": 4,
@@ -31,6 +32,7 @@
     "image": "https://i.ibb.co/6vZMnQL/VS-Code-Portfolio.png",
     "description": "A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.",
     "tags": ["next","css"],
+    "source_code": "https://github.com/mrkaushal/Portfolio",
     "demo": "https://kaushalpatel.info"
   },
   {
