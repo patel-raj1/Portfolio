@@ -1,7 +1,7 @@
 const ResumePage = () => {
     return (
       <>
-        <iframe width="100%" height="100%" src="https://mrkaushal.com/wp-content/uploads/2022/08/Resume.pdf"></iframe>
+        <iframe width="100%" height="100%" src="https://drive.google.com/file/d/1w2dccUQZaX36Q2aJSK6mgrr6S8mOHWDg/preview" allow="autoplay"></iframe>
       </>
     );
   };
