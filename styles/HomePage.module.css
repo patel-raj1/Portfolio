@@ -26,7 +26,7 @@
 }
 
 .name {
-  color: #eee;
+  color: var(--name-text-color);
   font-size: 3.5rem;
   font-weight: 500;
   margin-bottom: 0.5rem;
@@ -34,7 +34,7 @@
 
 .bio {
   width: max-content;
-  color: #eee;
+  color: var(--bio-text-color);
   font-size: 1.5rem;
   font-weight: 300;
   margin-bottom: 3rem;

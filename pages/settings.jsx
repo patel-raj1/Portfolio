@@ -48,6 +48,13 @@ const SettingsPage = () => {
           theme="night-owl"
           description="A VS Code theme for the night owls out there."
         />
+        <ThemeInfo
+          name="Github Light"
+          icon="/github_light.png"
+          publisher="GitHub"
+          theme="github-light"
+          description="GitHub light theme for VS Code."
+        />
       </div>
     </>
   );
