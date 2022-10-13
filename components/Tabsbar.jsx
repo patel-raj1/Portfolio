@@ -10,7 +10,7 @@ const Tabsbar = () => {
       <Tab icon="/css_icon.svg" filename="contact.css" path="/contact" />
       <Tab icon="/js_icon.svg" filename="projects.js" path="/projects" />
       <Tab icon="/json_icon.svg" filename="articles.json" path="/articles" />
-      <Tab icon="/git_icon.svg" filename="github.git" path="/github" />
+      <Tab icon="/git_icon.svg" filename="gitignore.git" path="/github" />
       <Tab icon="/markdown_icon.svg" filename="bookmarks.md" path="/bookmarks" />
     </div>
   );

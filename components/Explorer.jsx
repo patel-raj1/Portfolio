@@ -36,7 +36,7 @@ const explorerItems = [
     icon: 'json_icon.svg',
   },
   {
-    name: 'github.git',
+    name: 'gitignore.git',
     path: '/github',
     icon: 'git_icon.svg',
   },
