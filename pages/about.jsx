@@ -52,7 +52,11 @@ const AboutPage = () => {
             <h3 className={styles.title}>PHP Dots Technologies</h3>
             <span className={styles.span}>Full-Stack Web Developer (2021)</span>
           </div>
-          <p className={styles.desc}>I have learned much more in full stack web development.</p>
+          <p className={styles.desc}>
+          As an intern at PHPdots Technologies in Ahmedabad, I had the opportunity to learn and work with a variety of technologies, including PHP and MySQL. During my time at the company, I gained valuable experience in web development, database management, and programming best practices.
+          <br></br>
+          Overall, my internship at PHPdots Technologies was a valuable learning experience. I gained technical skills in PHP and MySQL, as well as a deeper understanding of the importance of teamwork, communication, and innovation in the workplace. I am grateful for the opportunity to have worked with such a talented and supportive team, and I look forward to applying what I learned in future projects and opportunities.
+          </p>
         </div>
         <div className={styles.card}>
           <h3 className={styles.title}>Freelancer</h3>
