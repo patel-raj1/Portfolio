@@ -61,7 +61,9 @@ const AboutPage = () => {
         <div className={styles.card}>
           <h3 className={styles.title}>Freelancer</h3>
           <span className={styles.span}>Full-Stack Web Development (2019 - Present)</span>
-          <p className={styles.desc}>I have been working as web developer and learned advanced topics.</p>
+          <p className={styles.desc}>
+            As a freelancer with expertise in Shopify, Python, Django, PHP, and machine learning, I am committed to providing customized solutions to clients. I have experience working on various projects in these areas and am able to adapt to different programming languages and technologies. I take pride in delivering high-quality work and building long-term relationships with my clients. My ability to understand clients' needs and tailor solutions to meet those needs is one of my greatest strengths. I am passionate about staying up-to-date with the latest developments in these areas and constantly improving my skills to deliver exceptional results.
+          </p>
         </div>
       </div>
     </>
