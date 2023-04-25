@@ -1,7 +1,7 @@
 const ResumePage = () => {
     return (
       <>
-        <iframe width="100%" height="100%" src="https://drive.google.com/file/d/1w2dccUQZaX36Q2aJSK6mgrr6S8mOHWDg/preview" allow="autoplay"></iframe>
+        <iframe width="100%" height="100%" src="https://drive.google.com/file/d/1-TjbOQn7hg4tSmKE0JMtHqfZGXm8UACu/preview" allow="autoplay"></iframe>
       </>
     );
   };
