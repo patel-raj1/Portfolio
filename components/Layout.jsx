@@ -4,6 +4,7 @@ import Explorer from '../components/Explorer';
 import Bottombar from '../components/Bottombar';
 import Tabsbar from './Tabsbar';
 import styles from '../styles/Layout.module.css';
+import PageLoader from '../components/PageLoader';
 
 const Layout = ({ children }) => {
   return (
@@ -14,6 +15,7 @@ const Layout = ({ children }) => {
         <Explorer />
         <div style={{ width: '100%' }}>
           <Tabsbar />
+          <PageLoader />
           <main className={styles.content}>{children}</main>
         </div>
       </div>
