@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "name": "Intelligence Mesh",
-    "image": "https://i.ibb.co/q1fsG7J/INtelligence-Mesh.png",
-    "description": "A platform for Marketing Professionals",
-    "tags": ["html","css","bootstrap","ajax","python","django"],
+    "name": "Bullnose Analysis",
+    "image": "https://i.ibb.co/mTtvrH7/BULLNOSE.png",
+    "description": "A platform for stock market analysis",
+    "tags": ["python","streamlit","angleOne"],
     "__source_code": "https://github.com/mrkaushal",
     "__demo": "https://google.com/"
   },
   {
     "id": 2,
-    "name": "Project Management Tool",
-    "image": "https://mrkaushal.com/wp-content/uploads/2022/06/wamt.png",
-    "description": "A platform for Tech Companies to manage their projects",
+    "name": "Intelligence Mesh",
+    "image": "https://i.ibb.co/q1fsG7J/INtelligence-Mesh.png",
+    "description": "A platform for Marketing Professionals",
     "tags": ["html","css","bootstrap","ajax","python","django"],
     "__source_code": "https://github.com/mrkaushal",
     "__demo": "https://google.com/"

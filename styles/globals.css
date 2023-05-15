@@ -92,3 +92,17 @@
 .css-modules:hover {
   background: rgba(21, 114, 182, 0.25);
 }
+
+.streamlit {
+  border: 2px solid rgb(232, 127, 15);
+}
+.streamlit:hover {
+  background: rgba(182, 91, 21, 0.25);
+}
+
+.angleOne {
+  border: 2px solid rgb(15, 84, 232);
+}
+.angleOne:hover {
+  background: rgba(21, 29, 182, 0.25);
+}
