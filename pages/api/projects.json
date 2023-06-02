@@ -24,7 +24,7 @@
     "description": "Hospital Management System for Doctors, Nurses and Patients with a Genetic Algorithm",
     "tags": ["html","css","bootstrap","ajax","python","django"],
     "source_code": "https://github.com/mrkaushal/Genetic",
-    "__demo": "https://www.google.com/"
+    "demo": "https://genetic-hms.vercel.app/"
   },
   {
     "id": 4,
