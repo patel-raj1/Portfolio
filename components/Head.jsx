@@ -17,7 +17,6 @@ const CustomHead = ({ title }) => {
         property="og:description"
         content="A full-stack developer building websites that you'd like to use."
       />
-      <script src='./clarity.js'></script>
     </Head>
   );
 };
