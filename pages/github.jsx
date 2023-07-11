@@ -40,7 +40,7 @@ const GithubPage = ({ repos, user }) => {
       </div>
       <div className={styles.contributions} id={styles.centerContent}>
         <GitHubCalendar
-          username="mrkaushal"
+          username="patel-raj1"
           theme={theme}
           hideColorLegend
         />
@@ -51,12 +51,12 @@ const GithubPage = ({ repos, user }) => {
 
 export async function getStaticProps() {
   const userRes = await fetch(
-    `https://api.github.com/users/mrkaushal`
+    `https://api.github.com/users/patel-raj1`
   );
   const user = await userRes.json();
 
   const repoRes = await fetch(
-    `https://api.github.com/users/mrkaushal/repos?sort=created_at&per_page=6`
+    `https://api.github.com/users/patel-raj1/repos?sort=created_at&per_page=6`
   );
   const repos = await repoRes.json();
 

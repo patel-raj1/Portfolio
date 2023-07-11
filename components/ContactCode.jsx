@@ -2,40 +2,25 @@ import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
   {
-    social: 'website',
-    link: 'kaushalpatel.info',
-    href: 'https://kaushalpatel.info',
-  },
-  {
     social: 'email',
-    link: 'hello@kaushalpatel.info',
-    href: 'mailto:hello@kaushalpatel.info',
+    link: 'rajpatel3483@gmail.com',
+    href: 'mailto:rajpatel3483@gmail.com',
   },
   {
     social: 'github',
-    link: 'mrkaushal',
-    href: 'https://github.com/mrkaushal',
+    link: 'patel-raj1',
+    href: 'https://github.com/patel-raj1',
   },
   {
     social: 'linkedin',
-    link: 'mrkaushalp',
-    href: 'https://www.linkedin.com/in/mrkaushalp/',
-  },
-  {
-    social: 'twitter',
-    link: 'mr_kaushal_p',
-    href: 'https://www.twitter.com/mr_kaushal_p',
+    link: 'raj-patel161',
+    href: 'https://www.linkedin.com/in/raj-patel161/',
   },
   {
     social: 'instagram',
-    link: 'mr.kaushal.p',
-    href: 'https://www.instagram.com/mr.kaushal.p',
-  },
-  {
-    social: 'telegram',
-    link: 'mr_kaushal_p',
-    href: 'https://t.me/mr_kaushal_p',
-  },
+    link: 'patel_raj1',
+    href: 'https://www.instagram.com/patel_raj1',
+  }
 ];
 
 const ContactCode = () => {

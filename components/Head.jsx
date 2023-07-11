@@ -10,9 +10,9 @@ const CustomHead = ({ title }) => {
       />
       <meta
         name="keywords"
-        content="kaushal patel, kaushal, patel, web developer portfolio, kaushal web developer, kaushal developer, kaushal patel portfolio, vscode-portfolio"
+        content="raj patel, raj, patel, web developer portfolio, raj web developer,   raj developer, raj patel portfolio, vscode-portfolio"
       />
-      <meta property="og:title" content="Kaushal Patel's Portfolio" />
+      <meta property="og:title" content="Raj Patel's Portfolio" />
       <meta
         property="og:description"
         content="A full-stack developer building websites that you'd like to use."
