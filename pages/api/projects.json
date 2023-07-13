@@ -34,14 +34,5 @@
     "tags": ["next","css"],
     "source_code": "https://github.com/mrkaushal/Portfolio",
     "demo": "https://kaushalpatel.info"
-  },
-  {
-    "id": 5,
-    "name": "SPECE",
-    "image": "https://i.ibb.co/18ZmMGn/SPECE.png",
-    "description": "The Spese Portfolio Theme is intended to make it quick and easy for everyone to create their portfolio website.",
-    "tags": ["html","css","jekyll", "netlify"],
-    "source_code": "https://github.com/getlocalhost/Spese",
-    "demo": "https://getlocalhost.github.io/Spese"
   }
 ]
